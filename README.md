@@ -29,3 +29,16 @@ To run the Colab notebook, click below:
 To install dependencies:
 ```bash
 pip install -r requirements.txt
+
+
+---
+
+### **Step 6: Commit & Push to GitHub**
+```bash
+git add .
+git commit -m "Initial commit - Added customer segmentation project"
+git push origin main
+
+
+
+
